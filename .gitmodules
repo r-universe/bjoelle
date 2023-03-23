@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FossilSim"]
+	path = FossilSim
+	url = https://github.com/cran/FossilSim
+	shallow = true
+	registered = true
+[submodule "FossilSimShiny"]
+	path = FossilSimShiny
+	url = https://github.com/cran/FossilSimShiny
+	shallow = true
+	registered = true
+[submodule "ML.MSBD"]
+	path = ML.MSBD
+	url = https://github.com/cran/ML.MSBD
+	shallow = true
+	registered = true
